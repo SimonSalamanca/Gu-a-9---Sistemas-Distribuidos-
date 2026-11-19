@@ -1,0 +1,38 @@
+=== REPORTE CONSOLIDADO DE VENTAS (500,000 REGISTROS) ===
+Ingreso Global: $1,549,041,280,029.48
+
+-- Ingresos por Ciudad --
+      ciudad      ingreso
+    Medellín 1.571305e+11
+        Cali 1.565996e+11
+     Pereira 1.560747e+11
+   Cartagena 1.555190e+11
+      Bogotá 1.554022e+11
+      Cúcuta 1.548925e+11
+ Bucaramanga 1.545089e+11
+   Manizales 1.535015e+11
+Barranquilla 1.534497e+11
+ Santa Marta 1.519626e+11
+
+-- Top 5 Productos por Cantidad --
+         producto  cantidad
+    Cámara Web HD    227521
+Base Refrigerante    226430
+   Monitor 27 FHD    226390
+Mouse Inalámbrico    226341
+    Laptop Pro 14    226252
+
+-- Ventas por Mes --
+    mes  ingreso_total  cantidad_total  transacciones
+2025-01   1.300352e+11          190839          42384
+2025-02   1.188236e+11          172925          38417
+2025-03   1.325157e+11          192022          42650
+2025-04   1.276062e+11          184110          41084
+2025-05   1.308881e+11          190829          42514
+2025-06   1.284613e+11          185222          41119
+2025-07   1.321247e+11          193032          42890
+2025-08   1.320981e+11          190189          42268
+2025-09   1.264160e+11          182926          40780
+2025-10   1.317200e+11          190899          42498
+2025-11   1.275784e+11          186584          41244
+2025-12   1.307740e+11          189346          42152
